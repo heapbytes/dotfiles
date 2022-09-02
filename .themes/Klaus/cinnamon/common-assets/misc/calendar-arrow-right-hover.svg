@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg7384" inkscape:version="0.91 r13725" sodipodi:docname="calendar-arrow-right-hover.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16"
+	 style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#898989;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview88" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:current-layer="layer12" inkscape:cx="14.072123" inkscape:cy="8.0207106" inkscape:guide-bbox="true" inkscape:object-nodes="false" inkscape:object-paths="false" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="false" inkscape:snap-global="true" inkscape:snap-grids="true" inkscape:snap-nodes="true" inkscape:snap-others="false" inkscape:snap-to-guides="true" inkscape:window-height="720" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="25" inkscape:zoom="22.627417" objecttolerance="10" pagecolor="#ffffff" showborder="true" showgrid="true" showguides="true">
+	
+		<inkscape:grid  empspacing="2" enabled="true" id="grid4866" originx="141px" originy="530px" snapvisiblegridlinesonly="true" spacingx="1px" spacingy="1px" type="xygrid" visible="true">
+		</inkscape:grid>
+	
+		<inkscape:grid  color="#000000" empcolor="#000000" empopacity="0" empspacing="4" enabled="true" id="grid5968" opacity="0.1254902" originx="141px" originy="530px" snapvisiblegridlinesonly="true" spacingx="0.5px" spacingy="0.5px" type="xygrid" visible="true">
+		</inkscape:grid>
+</sodipodi:namedview>
+<title  id="title9167">Gnome Symbolic Icon Theme</title>
+<g id="layer9" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="status">
+</g>
+<g id="layer10" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="devices">
+</g>
+<g id="layer11" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="apps">
+</g>
+<g id="layer13" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="places">
+</g>
+<g id="layer14" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="mimetypes">
+</g>
+<g id="layer15" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="emblems">
+</g>
+<g id="g71291" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="emotes">
+</g>
+<g id="g4953" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="categories">
+</g>
+<g id="layer12" transform="translate(-100.0002,-747)" inkscape:groupmode="layer" inkscape:label="actions">
+	<path id="path6040" inkscape:connector-curvature="0" class="st0" d="M106.2,751c0,0,0.1,0,0.1,0c0.2,0,0.3,0.1,0.4,0.2l3.4,3.3
+		l0.5,0.5l-0.5,0.5l-3.4,3.3c-0.2,0.2-0.5,0.2-0.7,0.2c0,0-0.1,0-0.1,0c-0.2,0-0.3-0.1-0.3-0.3c0,0,0-0.1,0-0.1
+		c-0.1-0.2,0-0.5,0.2-0.7l2.9-2.8l-2.9-2.8c-0.2-0.2-0.3-0.5-0.2-0.7c0,0,0-0.1,0-0.1c0-0.2,0.1-0.3,0.3-0.3c0,0,0.1,0,0.1,0
+		C106,751,106.1,751,106.2,751L106.2,751z"/>
+</g>
+</svg>

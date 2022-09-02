@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg5386" inkscape:version="0.91 r13725" sodipodi:docname="modal.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 84"
+	 style="enable-background:new 0 0 32 84;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.64;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;enable-background:new    ;}
+	.st1{clip-path:url(#SVGID_2_);fill:#363636;}
+	.st2{opacity:0.65;}
+	.st3{opacity:2.000000e-002;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;enable-background:new    ;}
+	.st4{opacity:7.000000e-002;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;enable-background:new    ;}
+	.st5{opacity:0.13;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;enable-background:new    ;}
+	.st6{opacity:0.2;fill:none;stroke:#000000;stroke-linecap:round;enable-background:new    ;}
+	.st7{opacity:0.25;fill:none;stroke:#000000;stroke-linecap:round;enable-background:new    ;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:current-layer="layer1" inkscape:cx="20.862219" inkscape:cy="64.999507" inkscape:document-units="px" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:zoom="22.627416" pagecolor="#c7c7c7" showgrid="true" units="px">
+	<inkscape:grid  id="grid5954" type="xygrid"></inkscape:grid>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-968.3622)" inkscape:groupmode="layer" inkscape:label="Ebene 1">
+	<path id="rect4164-4-3" class="st0" d="M6.5,972.9h19c1.1,0,2,0.9,2,2v70c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-70
+		C4.5,973.8,5.4,972.9,6.5,972.9z"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M-4,986.4h40c0.8,0,1.5-0.5,1.5-1v-14.7c0-0.6-0.7-1-1.5-1H-4c-0.8,0-1.5,0.5-1.5,1v14.7
+				C-5.5,985.9-4.8,986.4-4,986.4z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="rect4164" class="st1" d="M6.4,973.4h19.2c0.8,0,1.4,0.6,1.4,1.4v11.6c0,0.8-0.6,1.4-1.4,1.4H6.4c-0.8,0-1.4-0.6-1.4-1.4
+			v-11.6C5,974,5.6,973.4,6.4,973.4z"/>
+	</g>
+	<g id="g4271" transform="translate(-425.99995,606.36226)" class="st2">
+		<path id="rect4164-4-7-5-3-8-8" class="st3" d="M434.5,362.5h15c4.4,0,8,3.6,8,8v67c0,4.4-3.6,8-8,8h-15c-4.4,0-8-3.6-8-8v-67
+			C426.5,366.1,430.1,362.5,434.5,362.5z"/>
+		<path id="rect4164-4-7-5-3-8" class="st4" d="M434.5,363.5h15c3.9,0,7,3.1,7,7v67c0,3.9-3.1,7-7,7h-15c-3.9,0-7-3.1-7-7v-67
+			C427.5,366.6,430.6,363.5,434.5,363.5z"/>
+		<path id="rect4164-4-7-5-3" class="st5" d="M434.5,364.5h15c3.3,0,6,2.7,6,6v67c0,3.3-2.7,6-6,6h-15c-3.3,0-6-2.7-6-6v-67
+			C428.5,367.2,431.2,364.5,434.5,364.5z"/>
+		<path id="rect4164-4-7-5" class="st6" d="M434.5,365.5h15c2.8,0,5,2.2,5,5v67c0,2.8-2.2,5-5,5h-15c-2.8,0-5-2.2-5-5v-67
+			C429.5,367.7,431.7,365.5,434.5,365.5z"/>
+		<path id="rect4164-4-7" inkscape:connector-curvature="0" sodipodi:nodetypes="csscssc" class="st7" d="M431.6,440.3
+			c0.7,0.7,1.7,1.2,2.9,1.2h15c1.1,0,2.1-0.5,2.9-1.2c-0.3,0.1-0.5,0.2-0.9,0.2h-19C432.2,440.5,431.9,440.4,431.6,440.3z"/>
+	</g>
+</g>
+</svg>

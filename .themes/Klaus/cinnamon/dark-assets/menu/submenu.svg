@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg3783" inkscape:export-filename="/home/steffen/.local/share/themes/Vertex_Shell/gnome-shell/menu.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:version="0.91 r13725" sodipodi:docname="submenu.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 37 18"
+	 style="enable-background:new 0 0 37 18;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.15;enable-background:new    ;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:current-layer="g3027" inkscape:cx="6.5686977" inkscape:cy="6.4384088" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:showpageshadow="false" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-global="true" inkscape:window-height="718" inkscape:window-maximized="0" inkscape:window-width="1364" inkscape:window-x="0" inkscape:window-y="25" inkscape:zoom="16.000001" pagecolor="#838383" showgrid="true" showguides="true">
+	
+		<inkscape:grid  empspacing="8" enabled="true" id="grid4301" originx="0" originy="0" snapvisiblegridlinesonly="true" type="xygrid" visible="true">
+		</inkscape:grid>
+	<sodipodi:guide  id="guide3831" orientation="0,1" position="14.052204,22.065004"></sodipodi:guide>
+	<sodipodi:guide  id="guide3835" orientation="0,1" position="14.052204,-3.9349962"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(-5.9477962,-1025.4272)" inkscape:groupmode="layer" inkscape:label="Calque 1">
+	<g id="g3027" transform="matrix(0,-1,1,0,-1048.3622,1052.3622)">
+		
+			<rect id="rect3092" x="3.4" y="1063.8" transform="matrix(-2.535182e-006 -1 1 -2.535182e-006 -1054.875 1090.7478)" class="st0" width="29" height="18"/>
+		
+			<rect id="rect3883" x="-5.1" y="1072.3" transform="matrix(-2.535182e-006 -1 1 -2.535182e-006 -1063.375 1082.2478)" class="st0" width="29" height="1"/>
+		
+			<rect id="rect3883-1" x="11.9" y="1072.3" transform="matrix(-2.535182e-006 -1 1 -2.535182e-006 -1046.3749 1099.2477)" class="st0" width="29" height="1"/>
+	</g>
+</g>
+</svg>

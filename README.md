@@ -4,7 +4,7 @@ my xfce dotfiles
 
 # Screenshot
 
-![]('images/terminals.png')
+![](images/terminals.png)
 
 ### Edits
 

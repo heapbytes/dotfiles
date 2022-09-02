@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg5386" inkscape:version="0.91 r13725" sodipodi:docname="bg.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32"
+	 style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.81;fill:none;stroke:#1A1A1A;stroke-linecap:round;enable-background:new    ;}
+	.st1{opacity:0.95;fill:#393939;enable-background:new    ;}
+	.st2{opacity:0.65;}
+	.st3{opacity:2.000002e-002;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;enable-background:new    ;}
+	.st4{opacity:7.000002e-002;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;enable-background:new    ;}
+	.st5{opacity:0.13;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;enable-background:new    ;}
+	.st6{opacity:0.2;fill:none;stroke:#000000;stroke-linecap:round;enable-background:new    ;}
+	.st7{opacity:0.25;fill:none;stroke:#000000;stroke-linecap:round;enable-background:new    ;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:current-layer="layer1" inkscape:cx="18.271674" inkscape:cy="5.838404" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:zoom="11.313708" pagecolor="#ffffff" showgrid="false" units="px">
+	<inkscape:grid  id="grid5954" type="xygrid"></inkscape:grid>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-1020.3622)" inkscape:groupmode="layer" inkscape:label="Ebene 1">
+	<path id="rect4164-4-3" class="st0" d="M6.5,1024.9h19c1.1,0,2,0.9,2,2v18c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-18
+		C4.5,1025.8,5.4,1024.9,6.5,1024.9z"/>
+	<path id="rect4164" class="st1" d="M6.4,1025.4h19.2c0.8,0,1.4,0.6,1.4,1.4v18.2c0,0.8-0.6,1.4-1.4,1.4H6.4c-0.8,0-1.4-0.6-1.4-1.4
+		v-18.2C5,1026,5.6,1025.4,6.4,1025.4z"/>
+	<g id="g4271" transform="translate(-425.99995,658.36226)" class="st2">
+		<path id="rect4164-4-7-5-3-8-8" class="st3" d="M434.5,362.5h15c4.4,0,8,3.6,8,8v15c0,4.4-3.6,8-8,8h-15c-4.4,0-8-3.6-8-8v-15
+			C426.5,366.1,430.1,362.5,434.5,362.5z"/>
+		<path id="rect4164-4-7-5-3-8" class="st4" d="M434.5,363.5h15c3.9,0,7,3.1,7,7v15c0,3.9-3.1,7-7,7h-15c-3.9,0-7-3.1-7-7v-15
+			C427.5,366.6,430.6,363.5,434.5,363.5z"/>
+		<path id="rect4164-4-7-5-3" class="st5" d="M434.5,364.5h15c3.3,0,6,2.7,6,6v15c0,3.3-2.7,6-6,6h-15c-3.3,0-6-2.7-6-6v-15
+			C428.5,367.2,431.2,364.5,434.5,364.5z"/>
+		<path id="rect4164-4-7-5" class="st6" d="M434.5,365.5h15c2.8,0,5,2.2,5,5v15c0,2.8-2.2,5-5,5h-15c-2.8,0-5-2.2-5-5v-15
+			C429.5,367.7,431.7,365.5,434.5,365.5z"/>
+		<path id="rect4164-4-7" inkscape:connector-curvature="0" sodipodi:nodetypes="csscssc" class="st7" d="M431.6,388.3
+			c0.7,0.7,1.7,1.2,2.9,1.2h15c1.1,0,2.1-0.5,2.9-1.2c-0.3,0.1-0.5,0.2-0.9,0.2h-19C432.2,388.5,431.9,388.4,431.6,388.3z"/>
+	</g>
+</g>
+</svg>

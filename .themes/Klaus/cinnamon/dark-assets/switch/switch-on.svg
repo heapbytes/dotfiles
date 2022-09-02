@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg7539" inkscape:version="0.91 r13725" sodipodi:docname="switch-on.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 20"
+	 style="enable-background:new 0 0 50 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#434343;fill-opacity:0;}
+	.st1{fill:#898989;}
+	.st2{fill:#3A3A3A;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:current-layer="layer1" inkscape:cx="26.273653" inkscape:cy="16.301439" inkscape:document-units="px" inkscape:grid-bbox="true" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="false" inkscape:window-height="1032" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="23" inkscape:zoom="11.666667" pagecolor="#ffffff" showgrid="true" showguides="true">
+	
+		<inkscape:grid  empspacing="5" enabled="true" id="grid3019" originx="-4" originy="2.6171874e-06" snapvisiblegridlinesonly="true" type="xygrid" visible="true">
+		</inkscape:grid>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(-120,87.999997)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="switch-active-dark" transform="translate(-886,-448)" inkscape:label="#g4829">
+		<g id="layer1-9-0-51" transform="translate(885,450)" inkscape:label="Layer 1">
+			<g id="switch-active-8-8" transform="translate(120,-116.99998)" inkscape:label="Layer 1">
+				<g id="g3900-1-87-0" transform="translate(0,-1004.3622)">
+					<rect id="rect5465-3-3-3" y="1029.4" class="st0" width="52" height="24"/>
+					<path id="rect2987-0-8-7" class="st1" d="M12,1031.4h28c6.1,0,11,4.5,11,10l0,0c0,5.5-4.9,10-11,10H12c-6.1,0-11-4.5-11-10l0,0
+						C1,1035.8,5.9,1031.4,12,1031.4z"/>
+					<circle id="path3759-0-75" class="st2" cx="41" cy="1041.4" r="9"/>
+				</g>
+			</g>
+		</g>
+		<g id="g4816-8" transform="translate(-1.0003162,0)">
+			<path id="rect3977-39-2-13" class="st2" d="M1014.2,369.2l2.6,2.6c0.3,0.3,0.3,0.7,0,0.9l-0.5,0.5c-0.3,0.3-0.7,0.3-0.9,0
+				l-2.6-2.6c-0.3-0.3-0.3-0.7,0-0.9l0.5-0.5C1013.5,368.9,1014,368.9,1014.2,369.2z"/>
+			
+				<rect id="rect3979-7-0-65" x="1014" y="369.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 36.4326 828.2335)" class="st2" width="8" height="2"/>
+		</g>
+	</g>
+</g>
+</svg>

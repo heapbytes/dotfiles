@@ -1,0 +1,7 @@
+/* XPM */
+static char * right_active = {
+"2 1 2 1",
+"#	c #1C1C1C s active_hilight_1",
+"%	c #070707 s active_shadow_1",
+"#%",
+};

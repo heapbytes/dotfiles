@@ -1,8 +1,6 @@
 # bspwm dotfiles
 
-### Wm - bspwm
-
-## Screenshots 
+# Screenshots 
 
 ### Homepage
 

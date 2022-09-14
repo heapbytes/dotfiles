@@ -1,8 +1,0 @@
-/* XPM */
-static char * title_3_inactive = {
-"1 2 2 1",
-"+	c #090909 s inactive_shadow_1",
-"#	c #1C1C1C s inactive_hilight_1",
-"+",
-"#",
-};

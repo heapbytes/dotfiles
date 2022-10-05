@@ -6,6 +6,11 @@
 
 ![](screenshots/homepage.png)
 
+### Neovim 
+
+![](screenshots/nvim.png)
+
+
 ### Ranger
 
 - Add `export EDITOR='nvim'` in your `.zshrc` file to set nvim as ranger's default editor.
@@ -13,13 +18,9 @@
 ![](screenshots/ranger.png)
 
 
-### polybar bar
+### polybar
 
 ![](screenshots/polybar.png)
-
-### Neovim 
-
-![](screenshots/nvim.png)
 
 
 ## Showcase 
@@ -34,4 +35,5 @@
 - ranger
 - neofetch
 - kitty
+- ohmyzsh, powerlevel10k
 

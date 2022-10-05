@@ -6,8 +6,7 @@ super + w
 
 # terminal emulator
 super + Return
-    qterminal
-    #kitty
+    kitty
 super + t
     al-terminal
 alt + shift + Return

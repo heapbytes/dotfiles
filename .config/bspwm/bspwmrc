@@ -3,11 +3,15 @@
 # set root pointer
 xsetroot -cursor_name left_ptr
 
+#picom 
+pkill picom; picom --no-use-damage &
+
 # key bindings
 sxhkd -c "$HOME/.config/bspwm/sxhkdrc" &
 
 # panel
-tint2 &
+#tint2 &
+/home/lenon/.config/polybar/launch.sh &
 
 # set some bsp specific
 bspc monitor -d I II III IV V VI VII VIII IX X
@@ -23,6 +27,3 @@ bspc config pointer_modifier mod1
 bspc config pointer_action1 move
 bspc config pointer_action2 resize_side
 bspc config pointer_action3 resize_corner
-
-#xrandr --output Virtual1 --mode 1920x1080
-#feh --bg-scale /home/heap/Downloads/wallpapers/wall1.jpg

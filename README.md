@@ -6,10 +6,6 @@
 
 ![](screenshots/homepage.png)
 
-### Neovim 
-
-![](screenshots/nvim.png)
-
 ### Ranger
 
 - Add `export EDITOR='nvim'` in your `.zshrc` file to set nvim as ranger's default editor.
@@ -17,14 +13,23 @@
 ![](screenshots/ranger.png)
 
 
-### tint2 bar
+### polybar bar
 
-![](screenshots/wallpaper.png)
+![](screenshots/polybar.png)
+
+### Neovim 
+
+![](screenshots/nvim.png)
+
+
+## Showcase 
+
+![](screenshots/showcase.png)
 
 ## Dependencies
 
 - Bspwm (_ofc_)
-- tint2
+- polybar
 - neovim 0.7>
 - ranger
 - neofetch

@@ -18,7 +18,7 @@
 
 #### Window Animations
 
-![](screenshots/video.mp4)
+https://user-images.githubusercontent.com/56447720/203771720-8dcf77cb-27e8-487c-b66f-1c36257d548c.mp4
 
 ### Homepage
 

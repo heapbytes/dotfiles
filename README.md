@@ -18,7 +18,7 @@
 
 #### Window Animations
 
-![](screenshots/video.mkv)
+![](screenshots/video.mp4)
 
 ### Homepage
 

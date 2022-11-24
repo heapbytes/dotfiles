@@ -2,8 +2,6 @@
 
 ## bspwm dotfiles
 
-## Screenshots 
-
 ## Picom update 
 
 > Added window animations and blur effect, i've added 2 config files, one with all windows with blur effect and the other have no blur effect for current window.

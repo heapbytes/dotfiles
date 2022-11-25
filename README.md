@@ -1,8 +1,14 @@
-# This repo has 2 branches, dotfiles for xfce and bspwm
+## This repo has 2 branches, dotfiles for xfce and bspwm
 
-## bspwm dotfiles
+# bspwm dotfiles
 
-## Picom update 
+## Homepage
+
+<!--![](screenshots/homepage.png)
+ ![](screenshots/showcase.png) -->
+![image](https://user-images.githubusercontent.com/56447720/204018148-f03d455e-c358-4a56-aa96-18ce6dd22587.png)
+
+## Picom 
 
 > Added window animations and blur effect, i've added 2 config files, one with all windows with blur effect and the other have no blur effect for current window.
 
@@ -18,9 +24,7 @@
 
 https://user-images.githubusercontent.com/56447720/203771720-8dcf77cb-27e8-487c-b66f-1c36257d548c.mp4
 
-### Homepage
 
-![](screenshots/homepage.png)
 
 ### Neovim 
 
@@ -43,12 +47,6 @@ https://user-images.githubusercontent.com/56447720/203771720-8dcf77cb-27e8-487c-
 
 ![](screenshots/polybar.png)
 
-
-## Showcase 
-
-<!-- ![](screenshots/showcase.png) -->
-
-![image](https://user-images.githubusercontent.com/56447720/204018148-f03d455e-c358-4a56-aa96-18ce6dd22587.png)
 
 ## Dependencies
 

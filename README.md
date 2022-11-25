@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/56447720/203771720-8dcf77cb-27e8-487c-
 
 
 
-### Neovim 
+### Alacritty  
 
 <!-- ![](screenshots/nvim.png) -->
 ![image](https://user-images.githubusercontent.com/56447720/204017497-62f9b4b0-0351-492e-b22e-88cb29d63795.png)

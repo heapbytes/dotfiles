@@ -43,9 +43,14 @@ https://user-images.githubusercontent.com/56447720/203771720-8dcf77cb-27e8-487c-
 
 ### polybar
 
-> This is my old polybar, you can find it's configs in the dotfiles, too bored to update it.
+> This is my old polybar, you can find it's configs in the old-polybar folder.
 
 ![](screenshots/polybar.png)
+
+> Neww one.
+
+![image](https://user-images.githubusercontent.com/56447720/212282171-6539a49f-79c9-489b-99ca-da9afe0ffee1.png)
+
 
 
 ## Dependencies

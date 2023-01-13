@@ -1,0 +1,155 @@
+[module/volume]
+
+type = internal/pulseaudio
+
+; Sink to be used, if it exists (find using `pacmd list-sinks`, name field)
+; If not, uses default sink
+sink = alsa_output.pci-0000_12_00.3.analog-stereo
+
+; Use PA_VOLUME_UI_MAX (~153%) if true, or PA_VOLUME_NORM (100%) if false
+; Default: true
+use-ui-max = false
+
+; Interval for volume increase/decrease (in percent points)
+; Default: 5
+interval = 5
+
+
+; format-volume = <ramp-volume> <label-volume>
+format-volume =  <bar-volume> <label-volume>
+
+format-volume-foreground = ${color.green}
+
+format-muted = <label-muted>
+format-muted-prefix = 婢
+format-muted-prefix-font = 3
+format-muted-prefix-foreground = ${color.red}
+
+label-volume = %percentage%%
+label-volume-font = 4
+label-volume-foreground = ${color.green}
+label-muted = " Mute"
+muted-label-font = 5
+label-muted-foreground = ${color.red}
+
+ramp-volume-0 = 奄
+ramp-volume-1 = 奄
+ramp-volume-2 = 奄
+ramp-volume-3 = 奔
+ramp-volume-4 = 奔
+ramp-volume-5 = 奔
+ramp-volume-6 = 墳
+ramp-volume-7 = 墳
+ramp-volume-8 = 墳
+ramp-volume-9 = 墳
+ramp-volume-font = 3
+ramp-volume-foreground = ${color.green}
+
+ramp-headphones-0 = 
+ramp-headphones-1 = 
+
+
+; Only applies if <bar-volume> is used
+bar-volume-width = 10
+bar-volume-gradient = false
+
+bar-volume-indicator = 󰮯
+bar-volume-indicator-font = 7
+bar-volume-indicator-foreground = ${color.green}
+
+bar-volume-fill = ━
+bar-volume-fill-font = 7
+bar-volume-foreground-0 = ${color.green}
+bar-volume-foreground-1 = ${color.green}
+bar-volume-foreground-2 = ${color.green}
+bar-volume-foreground-3 = ${color.green}
+bar-volume-foreground-4 = ${color.green}
+
+bar-volume-empty = ━
+bar-volume-empty-font = 7
+bar-volume-empty-foreground = ${color.green}
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[module/mpd]
+type = internal/mpd
+
+interval = 2
+
+format-online = <icon-prev> <toggle> <icon-next>
+
+; format-online-background = ${color.mb}
+format-offline-foreground = ${color.grey}
+
+format-playing = ${self.format-online}
+format-paused = ${self.format-online}
+format-stopped = ${self.format-online}
+
+format-offline = <label-offline>
+format-offline-prefix = " "
+; format-offline-background = ${color.mb}
+
+label-song =  "%artist% - %title%"
+label-song-maxlen = 25
+label-song-ellipsis = true
+
+label-offline = "Offline"
+
+icon-play = 
+icon-play-font = 2
+icon-play-foreground = ${color.lime}
+icon-pause = 
+icon-pause-font = 2
+icon-pause-foreground = ${color.lime}
+icon-stop = 
+icon-stop-foreground = ${color.lime}
+icon-prev = 玲
+icon-prev-font = 1
+icon-prev-foreground = ${color.blue}
+icon-next = 怜
+icon-next-font = 1
+icon-next-foreground = ${color.blue}
+
+;;-----------
+
+[module/song]
+type = internal/mpd
+
+interval = 2
+
+format-online = "[ <icon-repeat> <label-song> ]"
+format-online-foreground = ${color.pink}
+
+format-playing = ${self.format-online}
+format-paused = ${self.format-online}
+format-stopped = ${self.format-online}
+
+label-song =  "%title% - %artist%"
+label-song-foreground = ${color.cyan}
+label-song-maxlen = 25
+label-song-ellipsis = true
+
+icon-repeat = ""
+icon-repeat-foreground = #FF0677
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[module/info-cava]
+type = custom/script
+exec =  ~/.config/polybar/scripts/cava
+
+format = <label>
+label = %output%
+format-foreground = ${color.purple}
+tail = true
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+; pipewire-microphone
+[module/pip-mic]
+type = custom/script
+exec = ~/.config/polybar/scripts/pipewire-microphone.sh
+tail = true
+click-left = ~/.config/polybar/scripts/pipewire-microphone.sh --toggle &
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_

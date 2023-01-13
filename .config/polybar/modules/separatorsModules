@@ -1,0 +1,64 @@
+[module/space]
+type = custom/text
+content = " "
+content-background = ${color.background}
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[module/Blankspace]
+type = custom/text
+content = " "
+content-background = #0C1018
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[module/spaceB]
+type = custom/text
+content = " "
+content-background = ${color.BACKGROUND}
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+##########################
+#       LD modules       #
+##########################
+
+[module/LD]
+type = custom/text
+content = "%{T5}█%{T-}"
+
+content-foreground = #0C1018
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[module/LT]
+type = custom/text
+
+content = "%{T6}%{T5}█%{T-}"
+
+content-foreground = #0C1018
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+##########################
+#       RD modules       #
+##########################
+
+[module/RD]
+type = custom/text
+
+content = "%{T5}█%{T-}"
+
+content-foreground = #0C1018
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[module/RT]
+type = custom/text
+
+content = "%{T5}█%{T-}"
+
+content-foreground = #0C1018
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_

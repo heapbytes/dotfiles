@@ -22,7 +22,8 @@
 
 #### Window Animations
 
-https://user-images.githubusercontent.com/56447720/203771720-8dcf77cb-27e8-487c-b66f-1c36257d548c.mp4
+<!-- https://user-images.githubusercontent.com/56447720/203771720-8dcf77cb-27e8-487c-b66f-1c36257d548c.mp4 -->
+[![Screenshot of video](https://user-images.githubusercontent.com/56447720/212466464-9e88a22e-c56e-4c4d-a651-00316299cfda.png)](https://youtu.be/bCA9ZV3S0s8)
 
 
 

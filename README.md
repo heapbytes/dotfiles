@@ -12,13 +12,11 @@
 
 > Added window animations and blur effect, i've added 2 config files, one with all windows with blur effect and the other have no blur effect for current window.
 
-#### picom.conf
+|window blur|Whole blur|
+|--|--|
+|![](screenshots/inactive-window-blur.png)| ![](screenshots/picom-blur.png) 
 
-![](screenshots/picom-blur.png)
 
-#### picom with no blur effect on current window
-
-![](screenshots/inactive-window-blur.png)
 
 #### Window Animations
 
@@ -27,20 +25,19 @@
 
 
 
-### Alacritty  
+ <!-- ![](screenshots/nvim.png) -->
+| Alactritty/nvim| Ranger|
+|--|--|
+| ![image](https://user-images.githubusercontent.com/56447720/204017497-62f9b4b0-0351-492e-b22e-88cb29d63795.png) | ![image](https://user-images.githubusercontent.com/56447720/204017641-a0517b87-7670-4957-bbd1-06de241720f3.png)
 
-<!-- ![](screenshots/nvim.png) -->
-![image](https://user-images.githubusercontent.com/56447720/204017497-62f9b4b0-0351-492e-b22e-88cb29d63795.png)
+> Add `export EDITOR='nvim'` in your `.zshrc` file to set nvim as ranger's default editor.
 
+<!-- ![](screenshots/ranger.png) 
 
 ### Ranger
 
-- Add `export EDITOR='nvim'` in your `.zshrc` file to set nvim as ranger's default editor.
 
-<!-- ![](screenshots/ranger.png) -->
-
-![image](https://user-images.githubusercontent.com/56447720/204017641-a0517b87-7670-4957-bbd1-06de241720f3.png)
-
+-->
 
 ### polybar
 

@@ -61,5 +61,9 @@
 - kitty
 - ohmyzsh, powerlevel10k
 
+#### Fonts 
+- ttf-nerd-fonts-symbols-2048-em-mono
+- ttf-nerd-fonts-symbols-common
+
 <p><a href="https://www.buymeacoffee.com/heapbytes"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="heapbytes" /></a></p><br><br>
 

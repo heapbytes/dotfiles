@@ -4,7 +4,9 @@
 xsetroot -cursor_name left_ptr
 
 #picom 
-picom --expiremental-backends --no-use-damage &
+pkill picom
+picom -b &
+#picom --expiremental-backends --no-use-damage &
 
 # key bindings
 sxhkd -c "$HOME/.config/bspwm/sxhkdrc" &

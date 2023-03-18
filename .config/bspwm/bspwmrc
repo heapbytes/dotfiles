@@ -4,14 +4,14 @@
 xsetroot -cursor_name left_ptr
 
 #picom 
-pkill picom ; picom --expiremental-backends --no-use-damage &
+picom --expiremental-backends --no-use-damage &
 
 # key bindings
 sxhkd -c "$HOME/.config/bspwm/sxhkdrc" &
 
 # panel
 #tint2 &
-/home/lenon/.config/polybar/launch.sh &
+$HOME/.config/polybar/launch.sh &
 
 # set some bsp specific
 bspc monitor -d I II III IV V VI VII VIII IX X

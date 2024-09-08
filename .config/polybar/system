@@ -1,0 +1,5 @@
+[system]
+adapter = AC
+battery = BAT1
+graphics_card = amdgpu_bl1
+network_interface = wlan0

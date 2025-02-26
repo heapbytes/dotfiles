@@ -10,7 +10,7 @@
 
 ## Picom 
 
-> Added window animations and blur effect, i've added 2 config files, one with all windows with blur effect and the other have no blur effect for current window.
+> Added window animations and blur effect, I've added 2 config files, one with all windows with blur effect and the other has no blur effect for the current window.
 
 |window blur|Whole blur|
 |--|--|
@@ -41,11 +41,11 @@
 
 ### polybar
 
-> This is my old polybar, you can find it's configs in the old-polybar folder.
+> This is my old polybar, you can find its configs in the old-polybar folder.
 
 ![](screenshots/polybar.png)
 
-> Neww one.
+> New one.
 
 ![image](https://user-images.githubusercontent.com/56447720/212282171-6539a49f-79c9-489b-99ca-da9afe0ffee1.png)
 

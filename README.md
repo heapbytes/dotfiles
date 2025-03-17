@@ -67,5 +67,5 @@
 
 
 
-<p><a href="https://www.ko-fi.com/heapbytes"> <img align="right" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" height="50" width="210" alt="heapbytes" /></a></p><br><br>
+<p><a href="https://www.ko-fi.com/heapbytes"> <img align="right" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0171bfb928b21a7e00_support_me_on_kofi_beige-p-500.png" height="50" width="210" alt="heapbytes" /></a></p><br><br>
 
